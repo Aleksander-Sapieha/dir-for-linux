@@ -1,2 +1,2 @@
-gcc src/dos-dir.cpp -o build/DIR
-gcc src/dos-dir.cpp -o build/dos-dir
+g++ src/dos-dir.cpp -o build/DIR -std=c++17
+g++ src/dos-dir.cpp -o build/dos-dir -std=c++17
